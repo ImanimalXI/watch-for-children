@@ -5,12 +5,13 @@ An updated version of the watch for children trafic sign.
 
 This project includes versions in English, French, German and Swedish. 
 
+Check out some <a href="http://imanimalxi.github.io/watch-for-children">examples at the .io page</a>
+
 All the versions resides in the Illustrator .ai file as separate layers. 
 
 Exported PNG files of each variation for web display
 
 SVG files of each variant for print or web display
-
 
 Feel free to spread, share and use it. Add credits or link to this project page if so.
 
@@ -25,5 +26,7 @@ If you wish to contribute with a version in a another language please push a req
 * Add your credits to the human.txt file
 
 Stickers
+----------
 
 Photos
+-----------
